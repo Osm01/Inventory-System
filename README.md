@@ -1,6 +1,5 @@
 Inventory System - Unity
 A feature-rich and interactive inventory system built in Unity, designed to enhance gameplay with smooth interactions and dynamic visuals.
-
 Key Features:
 ✅ Drag & Drop: Seamlessly move items between inventory slots.
 ✅ Inspect Mode: Rotate and zoom in/out on 3D items for a closer look.
