@@ -9,5 +9,5 @@ A **feature-rich and interactive inventory system** built in Unity, designed to 
 ✅ **Dynamic Inventory:** Supports different item types and customizable layouts.  
 ✅ **User-Friendly Design:** Intuitive controls for an immersive experience.  
 
-This system is built with **scalability and performance** in mind, making it a great addition to any Unity project. 🚀  
+This system is built with **scalability and performance** in mind, making it a great addition to any Unity project. 
 
